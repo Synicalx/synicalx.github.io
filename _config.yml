@@ -22,7 +22,7 @@ title: Zac's Blog
 description: >- # this means to ignore newlines until "baseurl:"
   I have thoughts, and you're gonna hear about them!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "synicalx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "blog.zacb.id.au" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
