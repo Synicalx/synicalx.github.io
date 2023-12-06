@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to what this is!"
+title:  "Welcome to whatever this is!"
 date:   2023-12-06 13:10:42 +1030
 categories: jekyll update
 ---
@@ -21,4 +21,4 @@ For anyone interested in Jekyll and so this doesn't become a useless "welcome to
 
 4. That's about it, you can make a fully fledged Blog with *just* that and that's more or less how I plan on operating.
 
-So there you have it, that's how simple Jekyll is. Once you have it running, just write some *.md* posts and you're done!
+So there you have it, that's how simple Jekyll is. Once you have it running, just write some *.md* posts and you're done! If you want to see what's going on behind the scenes with this blog, and lets be honest - there isn't much, feel free to have a look at [the repo][https://github.com/Synicalx/synicalx.github.io] that's running it all. 
