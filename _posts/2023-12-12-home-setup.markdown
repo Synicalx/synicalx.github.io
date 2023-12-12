@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Home Setup?"
-date:   2023-12-06 13:10:42 +1030
+date:   2023-12-12 16:45:00 +1030
 categories: blog
 ---
 
